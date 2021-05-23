@@ -16,7 +16,7 @@ public class TestCar {
 	@Test
 	public void testCarDao() {
 		int actual = list.size();
-		assertEquals(4, actual);
+		assertEquals(3, actual);
 		
 	}
 	
